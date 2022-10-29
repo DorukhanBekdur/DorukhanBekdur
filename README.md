@@ -1,4 +1,4 @@
-# zraelcode
+# DorukhanBekdur
 <h1 align="center"Hello 👋, I'm Dorukhan Bekdur</h1>
 <h3 align="center">I am a computer engineering student at Beykent University.</h3>
 
