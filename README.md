@@ -4,11 +4,11 @@
 
 - 🔭 Project I've been working on recently ; **none**
 
-- 🌱 What I've been trying to learn lately ; **Python , Java**
+- 🌱 What I've been trying to learn lately ; **Python, Js **
 
 - 👯 Area I want to work on ; **I don't know for now**
 
-- 💬 You can ask about ; **Cyber Security , Social Engineering , C++ and more...**
+- 💬 You can ask about ; **BackEnd Dev. , C++ , Java , C# and more...**
 
 - 📫 How do you reach me ? **dorukhanbekdur@gmail.com**
 
