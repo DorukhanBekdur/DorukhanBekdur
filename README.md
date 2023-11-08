@@ -1,6 +1,6 @@
 # DorukhanBekdur
 <h1 align="center">Hello 👋, I'm Dorukhan Bekdur</h1>
-<h3 align="center">I am a computer engineering student at Beykent University.</h3>
+<h3 align="center">I am a computer engineering student at Istanbul Beykent University.</h3>
 
 - 🔭 Project I've been working on recently ; **none**
 
