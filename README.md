@@ -46,4 +46,4 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api?username=DorukhanBekdur&theme=great-gatsby&hide_border=false&include_all_commits=false&count_private=false" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=DorukhanBekdur&theme=great-gatsby&hide_border=false" /></p>
+<p>&nbsp;<img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=DorukhanBekdur&theme=great-gatsby&hide_border=false" /></p>
