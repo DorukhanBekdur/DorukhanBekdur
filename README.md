@@ -44,6 +44,6 @@
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/dorukhanbew"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="dorukhanbew" /></a></p><br><br>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=dorukhanbekdur&show_icons=true&locale=en&layout=compact" alt="dorukhanbekdur" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api?username=DorukhanBekdur&theme=great-gatsby&hide_border=false&include_all_commits=false&count_private=false" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=dorukhanbekdur&show_icons=true&locale=en" alt="dorukhanbekdur" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=DorukhanBekdur&theme=great-gatsby&hide_border=false" /></p>
