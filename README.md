@@ -15,11 +15,11 @@
 
 - 📝 I regularly write articles on [https://medium.com/@dorukhanbekdur](https://medium.com/@dorukhanbekdur)
 
-- 💬 Ask me about **Java , C# , .NET Framework , C++ , HTML5 , CSS3 , JavaScript , Bootstrap**
+- 💬 Ask me about **Java , C# , .NET Framework , C++ , HTML5 , CSS3 , JavaScript , Bootstrap , PostgreSQL**
 
 - 📫 How to reach me **dorukhanbekdur@gmail.com**
 
-- 📄 Know about my experiences [https://www.linkedin.com/in/dorukhan-bekdur-011baa252/](https://www.linkedin.com/in/dorukhan-bekdur-011baa252/)
+- 📄 Know about my experiences [https://www.linkedin.com/in/dorukhan-bekdur-011baa252/](linkedin.com/in/dorukhanbekdur)
 
 - ⚡ Fun fact **I think I'm so Funny**
 
