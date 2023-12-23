@@ -17,7 +17,7 @@
 
 - 💬 Ask me about **Java , C# , .NET Framework , C++ , HTML5 , CSS3 , JavaScript , Bootstrap , PostgreSQL**
 
-- 📫 How to reach me **[Gmail]dorukhanbekdur@gmail.com**
+- 📫 How to reach me **dorukhanbekdur@gmail.com**
 
 - 📄 Know about my experiences [linkedin.com/in/dorukhanbekdur](linkedin.com/in/dorukhanbekdur)
 
