@@ -19,7 +19,7 @@
 
 - 📫 How to reach me **dorukhanbekdur@gmail.com**
 
-- 📄 Know about my experiences [https://www.linkedin.com/in/dorukhan-bekdur-011baa252/](linkedin.com/in/dorukhanbekdur)
+- 📄 Know about my experiences [linkedin.com/in/dorukhanbekdur](linkedin.com/in/dorukhanbekdur)
 
 - ⚡ Fun fact **I think I'm so Funny**
 
