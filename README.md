@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dorukhanbekdur&label=Profile%20views&color=0e75b6&style=flat" alt="dorukhanbekdur" /> </p>
 
-- 🔭 I’m currently working on UX/UI.
+- 🔭 I’m currently working on **UX/UI**.
 
 - 🌱 I’m currently learning **C# .NET FrameWork**
 
