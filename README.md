@@ -5,17 +5,15 @@
 
 - 🔭 I’m currently working on **UX/UI**.
 
-- 🌱 I’m currently learning **C# .NET FrameWork**
+- 🌱 I’m currently learning **UX/UI And Advanced Frontend Development**
 
 - 👯 I’m looking to collaborate on **None**
 
 - 🤝 I’m looking for help with **None**
 
-- 👨‍💻 All of my projects are available at [https://github.com/DorukhanBekdur](https://github.com/DorukhanBekdur)
-
 - 📝 I regularly write articles on [https://medium.com/@dorukhanbekdur](https://medium.com/@dorukhanbekdur)
 
-- 💬 Ask me about **Java , C# , .NET Framework , C++ , HTML5 , CSS3 , Bootstrap**
+- 💬 Ask me about **Java , C# , .NET Framework , C++ , HTML5 , CSS3 , Bootstrap , SQL , JS , C**
 
 - 📫 How to reach me **dorukhanbekdur@gmail.com**
 
