@@ -25,6 +25,7 @@
 <!-- BLOG-POST-LIST:START -->
 - <a href="https://medium.com/@dorukhanbekdur/jotform-staj-hikayem-84a75c8168f1">**Jotform Staj Hikayem**</a>
 - <a href="https://medium.com/@dorukhanbekdur/veri-nedir-veri-ve-programlama-kavramları-4fdf88994594">**Veri Nedir ? Veri ve Programlama Kavramları**</a>
+- <a href="https://medium.com/@dorukhanbekdur/ux-ui-nedir-bbba1d9b2984">**UX / UI nedir ? Özellikleri ve Farklılıkları Nelerdir ?**</a>
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
