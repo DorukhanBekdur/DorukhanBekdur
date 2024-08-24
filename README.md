@@ -3,9 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dorukhanbekdur&label=Profile%20views&color=0e75b6&style=flat" alt="dorukhanbekdur" /> </p>
 
-- 🔭 I’m currently working on **UX/UI**.
+- 🔭 I’m currently working on **Jotform App**.
 
-- 🌱 I’m currently learning **UX/UI And Advanced Frontend Development**
+- 🌱 I’m currently learning **UI Development And Advanced Frontend Development**
 
 - 👯 I’m looking to collaborate on **None**
 
