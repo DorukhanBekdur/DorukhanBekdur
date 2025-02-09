@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Dorukhan Bekdur</h1>
-<h3 align="center">Frontend & UI Developer & Computer Engineering Student from Turkey.</h3>
+<h3 align="center">Frontend & UI Developer | Computer Engineering Student from Turkey 🇹🇷</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dorukhanbekdur&label=Profile%20views&color=0e75b6&style=flat" alt="dorukhanbekdur" /> </p>
 
@@ -15,7 +15,7 @@
 
 - 💬 Ask me about **Java , C# , .NET Framework , C++ , HTML5 , CSS3 , Bootstrap , SQL , JS , C**
 
-- 📫 How to reach me **dorukhan.dev@gmail.com**
+- 📫 How to reach me **dorukhanbekdur@gmail.com**
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/dorukhan-bekdur-011baa252/](https://www.linkedin.com/in/dorukhan-bekdur-011baa252/)
 
