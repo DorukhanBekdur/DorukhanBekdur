@@ -13,7 +13,7 @@
 
 - 📝 I regularly write articles on [https://medium.com/@dorukhanbekdur](https://medium.com/@dorukhanbekdur)
 
-- 💬 Ask me about **Java , C# , .NET Framework , C++ , HTML5 , CSS3 , Bootstrap , SQL , JS , C**
+- 💬 Ask me about **Chart.js , Tailwindcss , React , SASS & SCSS , HTML5 , CSS3 , Bootstrap , SQL , JS , Gulp**
 
 - 📫 How to reach me **dorukhanbekdur@gmail.com**
 
