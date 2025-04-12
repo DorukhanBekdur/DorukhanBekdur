@@ -9,7 +9,7 @@
 
 ### 🚀 About Me
 
-- 🖥️ **Frontend & UI Developer** passionate about crafting interactive and user-friendly web applications.
+- 🖥️ **FullStack Web** passionate about crafting interactive and user-friendly web applications.
 - 🎓 **Computer Engineering Student** currently focusing on **Advanced Frontend Development & UI Engineering**.
 - ✍️ I love sharing my knowledge through blog posts: [Medium Blog](https://medium.com/@dorukhanbekdur).
 - 📬 **How to reach me?** Drop me an email at: **dorukhanbekdur@gmail.com**  
