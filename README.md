@@ -1,11 +1,17 @@
 <h1 align="center">Hey there! I'm Dorukhan Bekdur</h1>
-<h3 align="center">Frontend Developer | Computer Engineer</h3>
-
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=DorukhanBekdur&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=1500&pause=700&color=f7ba34&center=true&vCenter=true&width=1000&lines=Frontend+Developer+%7C+Computer+Engineer;React+ve+Tailwind+ile+modern+arayüzler+tasarlıyorum" alt="Typing SVG" />
 </p>
 
----
+  <p align="center">
+    <img src="https://komarev.com/ghpvc/?username=DorukhanBekdur&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
+  </p>
+  <p align="center">
+        I develop user-centric and scalable web interfaces using modern technologies such as HTML, CSS, SASS & SCSS, JavaScript, React, Vue and TypeScript.
+      I have experience in building analytics dashboards, responsive designs, and mobile-friendly solutions.
+      Writing clean and maintainable code, and delivering high-performance, high-quality user experiences are my top priorities.
+      I continuously improve my skills by closely following the latest trends and technologies in the frontend ecosystem.
+  </p>
 
 ### 🚀 About Me
 
