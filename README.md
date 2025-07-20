@@ -28,8 +28,11 @@
 ## 📫 Connect with me
 
 <p align="left">
+  <a href="mailto:dorukhanbekdur@gmail.com" target="_blank">
+    <img src="https://img.icons8.com/fluency/48/gmail-new.png" alt="Gmail" width="30" height="40" style="background:white; padding:4px; border-radius:6px;"/>
+  </a>
   <a href="https://www.linkedin.com/in/dorukhanbekdur/" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40"/>
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="50"/>
   </a>
   <a href="https://medium.com/@dorukhanbekdur" target="_blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="Medium" height="30" width="40"/>
