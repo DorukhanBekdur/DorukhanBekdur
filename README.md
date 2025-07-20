@@ -1,4 +1,4 @@
-<h1 align="center">Hey there! 👋 I'm Dorukhan Bekdur</h1>
+<h1 align="center">Hey there! I'm Dorukhan Bekdur</h1>
 <h3 align="center">Frontend Developer | Computer Engineering Student</h3>
 
 <p align="center">
