@@ -1,4 +1,4 @@
-<h1 align="center">Hey there! I'm Dorukhan Bekdur</h1>
+<h1 align="center">Dorukhan Bekdur • Frontend Developer</h1>
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=1500&pause=700&color=f7ba34&center=true&vCenter=true&width=1000&lines=Frontend+Developer+%7C+Computer+Engineer;HTML5+CSS3+Bootstrap+Javascript+React+Vue+Typescript" alt="Typing SVG" />
 </p>
