@@ -6,6 +6,8 @@
   <p align="center">
     <img src="https://komarev.com/ghpvc/?username=DorukhanBekdur&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
   </p>
+
+  ### 🚀 About Me
   <p align="center">
         I develop user-centric and scalable web interfaces using modern technologies such as HTML, CSS, SASS & SCSS, JavaScript, React, Vue and TypeScript.
       I have experience in building analytics dashboards, responsive designs, and mobile-friendly solutions.
@@ -13,8 +15,7 @@
       I continuously improve my skills by closely following the latest trends and technologies in the frontend ecosystem.
   </p>
 
-### 🚀 About Me
-
+  ##
 - 🖥️ **FullStack Web** passionate about crafting interactive and user-friendly web applications.
 - 🎓 **Computer Engineering Student** currently focusing on **Advanced Frontend Development & UI Engineering**.
 - ✍️ I love sharing my knowledge through blog posts: [Medium Blog](https://medium.com/@dorukhanbekdur).
